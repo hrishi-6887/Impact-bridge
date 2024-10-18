@@ -29,6 +29,6 @@ Imapct Bridge is a Java based web application. The frontend is made using React 
 
 
 ## Video of the working website
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hzYXz35jiV0?si=cb1UqeLQbjBlURxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+(https://www.youtube.com/watch?v=hzYXz35jiV0&ab_channel=PrajwalMK)
 
 
